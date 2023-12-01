@@ -5,3 +5,4 @@ Requirements:
 https://el.el.obs.utcluj.ro/scr/Teme_proiect.htm
 
 Final Virtual machine: 
+https://drive.google.com/drive/folders/1-t2heFyloPCsZQ9K_Z9RsYjqsn7yC_EY?usp=sharing
